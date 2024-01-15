@@ -1,4 +1,18 @@
- .red{
+.red{
     background-color: lightpink;
     font-family: 'Verdana', 'Dejavu Sans', 'sans-serif';
+}
+.red.three{
+    font-size: 24px;
+}
+
+#special {
+    color:blue;
+    font-size: 36px;
+}
+
+#fourth {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
 }
