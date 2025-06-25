@@ -3,6 +3,10 @@
     font-size: 35px;
 }
 
+.oddElement.biggerFont {
+    font-size: 50px;
+}
+
 #div1 {
     font-size: 50px;
     color: blue;
