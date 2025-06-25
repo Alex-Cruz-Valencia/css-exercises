@@ -1,20 +1,18 @@
 .oddElement {
     background-color: #ffb6c1;
-    font-size: 35px;
     font-family: Verdana, DejaVu Sans, sans-serif;
 }
 
-.oddElement.biggerFont {
-    font-size: 50px;
+.adjustFont {
+    font-size: 24px;
 }
 
 #div1 {
-    font-size: 50px;
+    font-size: 36px;
     color: #0000ff;
 }
 
 #div2 {
     background-color: #adff2f;
-    font-size: 30px;
     font-weight: bold;
 }
