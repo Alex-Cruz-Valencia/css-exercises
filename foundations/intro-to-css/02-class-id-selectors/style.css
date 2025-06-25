@@ -1,6 +1,7 @@
 .oddElement {
     background-color: #ffb6c1;
     font-size: 35px;
+    font-family: Verdana, DejaVu Sans, sans-serif;
 }
 
 .oddElement.biggerFont {
