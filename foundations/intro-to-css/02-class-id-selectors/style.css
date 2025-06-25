@@ -1,3 +1,8 @@
+.oddElement {
+    background-color: lightpink;
+    font-size: 35px;
+}
+
 #div1 {
     font-size: 50px;
     color: blue;
