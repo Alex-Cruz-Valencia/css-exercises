@@ -1,0 +1,14 @@
+.low-contrast-button {
+    background-color: black;
+    color: white;
+}
+
+.high-contrast-button {
+    background-color: yellow;
+}
+
+.low-contrast-button,
+.high-contrast-button {
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+}
