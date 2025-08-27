@@ -1,7 +1,6 @@
 .header {
   font-family: monospace;
   background: papayawhip;
-  /* below are my changes */
   display: flex;
   align-items: center;
   justify-content: space-between;
@@ -15,14 +14,12 @@
   color: tomato;
   background: white;
   padding: 4px 32px;
-  /* below are my changes*/
   margin: 10px;
 }
 
 ul {
   /* this removes the dots on the list items*/
   list-style-type: none;
-  /* below are my changes */
   display: flex;
   margin: 0px;
   padding: 0px
@@ -34,7 +31,6 @@ a {
   padding: 8px;
   /* this removes the line under the links */
   text-decoration: none;
-  /* below are my changes */
 }
 
 li {
