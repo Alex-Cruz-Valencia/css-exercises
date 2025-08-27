@@ -5,6 +5,8 @@
   display: flex;
   align-items: center;
   justify-content: space-between;
+  flex: 1;
+
 }
 
 .logo {
@@ -13,6 +15,8 @@
   color: tomato;
   background: white;
   padding: 4px 32px;
+  /* below are my changes*/
+  margin: 10px;
 }
 
 ul {
@@ -20,6 +24,8 @@ ul {
   list-style-type: none;
   /* below are my changes */
   display: flex;
+  margin: 0px;
+  padding: 0px
 }
 
 a {
@@ -28,6 +34,9 @@ a {
   padding: 8px;
   /* this removes the line under the links */
   text-decoration: none;
-
   /* below are my changes */
+}
+
+li {
+  margin: 10px;
 }
