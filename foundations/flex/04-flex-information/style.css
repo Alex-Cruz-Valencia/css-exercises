@@ -10,6 +10,7 @@ img {
 .title {
   font-size: 36px;
   font-weight: 900;
+  /* Changes made by Alex Cruz-Valencia*/
 }
 
 /* do not edit this footer */
@@ -23,4 +24,10 @@ img {
   align-items: center;
   justify-content: center;
   background: #eee;
+}
+
+/* The following changes were made by Alex Cruz-Valencia */
+.information {
+  display: flex;
+  justify-content: center;
 }
