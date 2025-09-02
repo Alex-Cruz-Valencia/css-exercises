@@ -11,6 +11,7 @@ img {
   font-size: 36px;
   font-weight: 900;
   /* Changes made by Alex Cruz-Valencia*/
+
 }
 
 /* do not edit this footer */
@@ -27,7 +28,16 @@ img {
 }
 
 /* The following changes were made by Alex Cruz-Valencia */
-.information {
+.information-block {
   display: flex;
   justify-content: center;
+}
+
+.information-row {
+  display: flex;
+  justify-content: space-between;
+}
+
+.text {
+  text-wrap: normal;
 }
